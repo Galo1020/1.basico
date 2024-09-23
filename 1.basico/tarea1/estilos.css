@@ -1,0 +1,13 @@
+.cuadro1{background-color: black;
+    display: flex;
+    flex-direction: row;
+}
+
+.cuadro2{background-color: red;
+    height: 100px;
+    width: 100px;
+}
+.cuadro3{background-color: rgb(255, 251, 0);
+    height: 100px;
+    width: 100px;
+}
